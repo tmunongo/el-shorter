@@ -7,3 +7,5 @@ A link shortener
 - Next.js
 - Prisma
 - PlanetScale DB
+
+Front end coming soon
