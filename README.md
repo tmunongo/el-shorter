@@ -9,3 +9,5 @@ A link shortener
 - PlanetScale DB
 
 Front end coming soon
+
+[Link]('https://el-shorter.vercel.app/api/testslug')
